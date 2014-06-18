@@ -25,10 +25,12 @@ python google2fa
 use
 ===
 `/add/usernmae`
+
 Use Google Authenticator get the QR code 
 
 
 `/verify/username/code`
+
 Show the verify of the code from Google Authenticator
 
 
