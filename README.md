@@ -7,6 +7,7 @@ cd python-googauth
 python setup.py install
 
 ```
+python-googauth http://rentshare.github.com/python-googauth
 
 init database
 =============
